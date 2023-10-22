@@ -6,7 +6,7 @@ Running the Classifer:
 
 - Refer to the "run_classifier.ipynb" file regarding it
 
-Final Report: Refer to the following files, within the "Reports" folder to get detailed information about the project:
+Final Report: Refer to the following files, within the "Reports", folder to get detailed information about the project:
 
 - "Self Supervision in Graph Neural Networks for Text Classification.pdf"
 - "Presentation.pdf"
